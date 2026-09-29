@@ -8,7 +8,7 @@ This N8N workflow automatically converts plain English requests into structured 
 
 ## Workflow Architecture
 
-![N8N Facebook Ads Intelligence Workflow](https://raw.githubusercontent.com/DZ-ABDLHAKIM/ai-powered-facebook-ads-scraper-n8n/refs/heads/main/images/workflow-architecture-1.png)
+![N8N Facebook Ads Intelligence Workflow](https://raw.githubusercontent.com/FlowExtractAPI/ai-powered-facebook-ads-scraper-n8n/refs/heads/main/images/workflow-architecture-1.png)
 
 The pipeline consists of four main components:
 
@@ -19,7 +19,7 @@ The pipeline consists of four main components:
 
 ## Sample Output
 
-![Facebook Ads Data Extraction Results](https://raw.githubusercontent.com/DZ-ABDLHAKIM/ai-powered-facebook-ads-scraper-n8n/refs/heads/main/images/data-output-sample.png)
+![Facebook Ads Data Extraction Results](https://raw.githubusercontent.com/FlowExtractAPI/ai-powered-facebook-ads-scraper-n8n/refs/heads/main/images/data-output-sample.png)
 
 Each extracted ad includes:
 - Complete ad creative (text, images, videos)
@@ -130,13 +130,13 @@ The workflow supports extensive customization:
 ### **Getting Help**
 - 🌐 **Website**: [flowextractapi.com](https://flowextractapi.com)
 - 📧 **Email**: [flowextractapi@outlook.com](mailto:flowextractapi@outlook.com)
-- 🙋 **Apify Profile**: [dz_omar](https://apify.com/dz_omar?fpr=smcx63)
+- 🙋 **Apify Profile**: [FlowExtract API](https://apify.com/dz_omar?fpr=smcx63)
 - 💬 **GitHub Issues**: [FlowExtractAPI](https://github.com/FlowExtractAPI)
 
 ### Social Media
 
 - 💼 **LinkedIn**: [flowextract-api](https://www.linkedin.com/in/flowextract-api/)
-- 🐦 **Twitter**: [@FlowExtractAPI](https://x.com/@FlowExtractAPI)
+- 🐦 **Twitter**: [@FlowExtractAPI](https://x.com/FlowExtractAPI)
 - 📱 **Facebook**: [flowextractapi](https://www.facebook.com/flowextractapi)
 
 ---
